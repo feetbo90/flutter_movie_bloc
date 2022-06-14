@@ -55,3 +55,15 @@ Jika kamu menerapkan modular pada project, Anda dapat memanfaatkan berkas `test.
 5. Proses Build lewat CodeMagic
 
 ![Alt text](assets/img.png?raw=true "CodeMagic")
+
+6. Crashlytics
+
+![Alt text](assets/crashlytics.png?raw=true "Crashlytics")
+
+7. Analytics
+
+![Alt text](assets/analytics.png?raw=true "Analytics")
+
+8. Mobile Apps
+
+![Alt text](assets/img_1.png?raw=true "Mobile Apps")
