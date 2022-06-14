@@ -62,7 +62,9 @@ class _WatchlistMoviesPageState extends State<WatchlistMoviesPage>
               );
             } else {
               return Expanded(
-                child: Text("Error"),
+                child: Center(
+                  child: Text("Tidak ada Data"),
+                ),
               );
             }
           },

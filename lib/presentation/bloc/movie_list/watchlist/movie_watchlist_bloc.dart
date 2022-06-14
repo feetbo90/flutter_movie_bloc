@@ -22,6 +22,7 @@ class MovieWatchlistBloc
 
   static const watchlistAddSuccessMessage = 'Added to Watchlist';
   static const watchlistRemoveSuccessMessage = 'Removed from Watchlist';
+
   MovieWatchlistBloc(this._getWatchlistMovies, this._getWatchListStatus,
       this._removeWatchlist, this._saveWatchlist)
       : super(MovieWatchList()) {

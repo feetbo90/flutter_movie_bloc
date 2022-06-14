@@ -172,5 +172,6 @@ void main() {
           // assert
           expect(() => call, throwsA(isA<ServerException>()));
         });
+
   });
 }

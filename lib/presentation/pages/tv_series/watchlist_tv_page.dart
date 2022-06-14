@@ -62,7 +62,9 @@ class _WatchListTvPageState extends State<WatchListTvPage>
               );
             } else {
               return Expanded(
-                child: Text("Error"),
+                child: Center(
+                  child: Text("Tidak ada Data"),
+                ),
               );
             }
           },
