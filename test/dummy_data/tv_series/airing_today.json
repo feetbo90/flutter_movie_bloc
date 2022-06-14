@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/path.jpg",
+      "genre_ids": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "id": 1,
+      "name": "Obi-Wan Kenobi",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Obi-Wan Kenobi",
+      "overview": "During the reign of the Galactic Empire, former Jedi Master, Obi-Wan Kenobi, embarks on a crucial mission to confront allies turned enemies and face the wrath of the Empire.",
+      "popularity": 3049.229,
+      "poster_path": "/path.jpg",
+      "vote_average": 8.2,
+      "vote_count": 205
+    }
+  ],
+  "total_pages": 47,
+  "total_results": 940
+}
