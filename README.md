@@ -63,7 +63,5 @@ Jika kamu menerapkan modular pada project, Anda dapat memanfaatkan berkas `test.
 7. Analytics
 
 ![Alt text](assets/analytics.png?raw=true "Analytics")
-
 8. Mobile Apps
-
 ![Alt text](assets/img_1.png?raw=true "Mobile Apps")
