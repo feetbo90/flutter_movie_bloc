@@ -21,8 +21,9 @@ class MoviePopularBloc extends Bloc<MoviePopularEvent, MoviePopularState> {
               emit(MoviePopularError(failure.message));
               },
             (data) {
-              print("berhasil disini");
-          emit(MoviePopularHasData(data));
+                data.isEmpty
+                    ? emit(MoviePopularEmpty())
+                    : emit(MoviePopularHasData(data));
         },
       );
     },
