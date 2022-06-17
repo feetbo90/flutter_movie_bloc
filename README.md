@@ -1,6 +1,6 @@
 # flutter_movie_bloc
 =======
-# a199-flutter-expert-project
+# a199-flutter-expert-project [![Codemagic build status](https://api.codemagic.io/apps/62a7fbd693ecd5560274d97e/62a7fbd693ecd5560274d97d/status_badge.svg)](https://codemagic.io/apps/62a7fbd693ecd5560274d97e/62a7fbd693ecd5560274d97d/latest_build)
 
 Repository ini merupakan starter project submission kelas Flutter Expert Dicoding Indonesia.
 
@@ -67,4 +67,3 @@ Jika kamu menerapkan modular pada project, Anda dapat memanfaatkan berkas `test.
 
 ![Alt text](assets/img_1.png?raw=true "Mobile Apps")
 
-[![Codemagic build status](https://api.codemagic.io/apps/62a7fbd693ecd5560274d97e/62a7fbd693ecd5560274d97d/status_badge.svg)](https://codemagic.io/apps/62a7fbd693ecd5560274d97e/62a7fbd693ecd5560274d97d/latest_build)
