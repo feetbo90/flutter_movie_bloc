@@ -64,4 +64,7 @@ Jika kamu menerapkan modular pada project, Anda dapat memanfaatkan berkas `test.
 
 ![Alt text](assets/analytics.png?raw=true "Analytics")
 8. Mobile Apps
+
 ![Alt text](assets/img_1.png?raw=true "Mobile Apps")
+
+[![Codemagic build status](https://api.codemagic.io/apps/62a7fbd693ecd5560274d97e/62a7fbd693ecd5560274d97d/status_badge.svg)](https://codemagic.io/apps/62a7fbd693ecd5560274d97e/62a7fbd693ecd5560274d97d/latest_build)
